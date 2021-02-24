@@ -3,7 +3,7 @@
 ![alt text](https://img.shields.io/badge/Size-143.00KB-yellow.svg)
 ![alt text](https://img.shields.io/badge/Python-3-green.svg)<br>
 Gempa is tools for get information of gempa from bmkg.go.id<br>
-![shot]()
+![shot](https://github.com/penucuriCode/bmkg/blob/main/img/wa.PNG)
 
 # Gempa feature
 - [x] fast process

@@ -13,7 +13,7 @@ Gempa is tools for get information of gempa from bmkg.go.id<br>
 - [x] <a href="gempa.py">Python script</a><br>
 - [x] <a href="gempa.php">Php script</a><br>
 
-## Getting and Running Admin-san
+## Getting and Running
 ```sh
 $ git clone https://github.com/penucuriCode/bmkg
 $ cd bmkg

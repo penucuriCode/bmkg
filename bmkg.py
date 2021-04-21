@@ -29,7 +29,7 @@ def banner():
     time.sleep(3)
 
 def main():
-    response  = requests.get('http://data.bmkg.go.id/autogempa.xml')
+    response  = requests.get('https://data.bmkg.go.id/DataMKG/TEWS/autogempa.xml')
     result    = response.text
     save      = open('result.xml', 'w')
     save.write('%s' % result)
